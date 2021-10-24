@@ -11,7 +11,7 @@
 
 ## Mandatory Tasks
 
-#### * Bubble sort
+#### Bubble sort
 
     Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm
 
@@ -23,7 +23,7 @@
     in the average case
     in the worst case
 
-#### * Insertion sort
+#### Insertion sort
 
     Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
@@ -36,7 +36,7 @@
     in the average case
     in the worst case
 
-#### * Selection sort
+#### Selection sort
 
     Write a function that sorts an array of integers in ascending order using the Selection sort algorithm
 
@@ -48,7 +48,7 @@
     in the average case
     in the worst case
 
-#### * Quick sort
+#### Quick sort
 
     Write a function that sorts an array of integers in ascending order using the Quick sort algorithm
 
