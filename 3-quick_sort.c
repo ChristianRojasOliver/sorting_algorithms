@@ -61,7 +61,7 @@ int partition(int *array, int low, int high, size_t size)
 	new_pivot = low;
 	for (index = low; index < high; ++index)
 	{
-		if (array[index] < pivot)
+		if (array[index] <= pivot)
 		{
 			if (index != new_pivot)
 				swap(array, new_pivot, index, size);
